@@ -1,4 +1,4 @@
-### Olá Eu sou Ailton Neto 👋
+### <strong>Ailton Neto 👨‍💻</strong> 
 
 - 🔭 Tenho 20 anos sou apaixonado por jogos e tecnologia
 - 🌱 estou Estudando Javascript e React
