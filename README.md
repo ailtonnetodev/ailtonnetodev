@@ -1,11 +1,4 @@
-### <strong>Ailton Neto 👨‍💻</strong> 
-
-- 🔭 Tenho 20 anos sou apaixonado por jogos e tecnologia, Entrei pra area do Desenvolvimento Web em Novembro de 2021, onde meu primeiro contato com programação foi com Python 
-em Fevereiro de 2022 Iniciei minha faculdade de ADS
-- 🌱 estou Estudando Javascript e React
-- 😄 Nos meus tempos livre toco guitarra 
-- ⚡ Amo Vaijar e conhecer novos lugares
-
+### <strong>Fala Galera! Eu sou Ailto Neto👨‍💻</strong> 
 
 <div align="center">
   <a href="https://github.com/ailtonnetodev">
