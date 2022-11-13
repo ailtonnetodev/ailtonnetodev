@@ -4,7 +4,7 @@
 em Fevereiro de 2022 Iniciei minha faculdade de ADS
 - 🌱 estou Estudando Javascript e React
 - 😄 Nos meus tempos livre toco guitarra 
-- ⚡ Amo Vaijar e conhecer novos lugares.
+- ⚡ Amo Vaijar e conhecer novos lugares
 
 
 <div align="center">
