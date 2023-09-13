@@ -21,6 +21,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="Neto-aws" height="40" width="50" src="https://devicons.dev.br/icons?icon=AWS&theme=dark&perline=1">
+  <img align="center" alt="neto-cpp" height="30" width="40" src"https://devicons.dev.br/icons?icon=CPP&theme=dark&perline=1">
 </div>
   
   ##
