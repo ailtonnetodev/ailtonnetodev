@@ -1,4 +1,4 @@
-### Fala Devs! Neto aqui! 🌎
+### Fala Devs! 🌎
 
 ##
 
