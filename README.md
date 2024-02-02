@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-Ts" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-git" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="Rafa-git" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Rafa-postgresql" height="35" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Rafa-sequelize" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
   <img align="center" alt="Neto-docker" height="38" width="48" src="https://devicons.dev.br/icons?icon=docker&theme=dark&perline=1">
